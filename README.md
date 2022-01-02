@@ -22,9 +22,9 @@ Since Steve's parents were interested in investing in DAQO stocks, Created a mac
  
  ![main](Resources/AllStockAnalysis_2018.png)
 
- Initialized and assigned the timer in the code to check the code run time for All stocks analysis 2017 and 2018. 
+ Initialized and assigned timer in the code to check the code run time for All stocks analysis 2017 and 2018. 
 
- ![main](Resources/Runtime_2017.png)
+ ![main](Resources/Runtime_2017 .png)
 
  ![main](Resources/Runtime_2018.png)
 
