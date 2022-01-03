@@ -14,19 +14,19 @@ The data was stored in 2 sheets (2017 & 2018)  with stock informations of 12 dif
 
 Since Steve's parents were interested in investing in DAQO stocks, Created a macro to do  the analysis on DAQO(Ticker = DQ) to retrieve the total daily volume and Yearly returns on DQ stocks for 2018.
 
-![main](Resources/DAQO analysis 2018.png)
+![main](Resources/DAQO_Analysis_2018.png)
 
  Since the Yearly returns was in negative, created a macro to run the analysis on all stocks data for both 2017 and 2018 to determine which stock will be best for Steve's parents to invest by using Array in the code. 
 
- ![main](Resources/AllStockAnalysis 2017.png)
+ ![main](Resources/AllStockAnalysis_2017.png)
  
- ![main](Resources/AllStockAnalysis 2018.png)
+ ![main](Resources/AllStockAnalysis_2018.png)
 
- Initialized and assigned the timer in the code to check the code run time for All stocks analysis 2017 and 2018. 
+ Initialized and assigned timer in the code to check the code run time for All stocks analysis 2017 and 2018. 
 
- ![main](Resources/Runtime 2017.png)
+ ![main](Resources/Runtime_2017 .png)
 
- ![main](Resources/Runtime 2018.png)
+ ![main](Resources/Runtime_2018.png)
 
 
 ## Results 
@@ -91,9 +91,9 @@ Below is the modified code by adding tickerIndex  variable, tickerVolumes(12), t
      
 Below are the screenshots of the excel sheets after Refactored code run for All Stocks analysis.
 
-![main](Resources/Refactored-2017.png)
+![main](Resources/Refactored_2017.png)
 
-![main](Resources/Refactored 2018.png)
+![main](Resources/Refactored_2018.png)
 
 
 ## Summary 
